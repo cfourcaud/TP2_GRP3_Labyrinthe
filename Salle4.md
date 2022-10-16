@@ -7,7 +7,7 @@ moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus
  des pommes de terre lors de la cuisson.
 
 
-![alt text](/images/Plat3.png)
+![alt text](/images/Plat4.png)
 
 
 
