@@ -2,7 +2,7 @@
 
 Hmmm ça sent bon dans cette salle et vous commencez à avoir une sacrée dalle.
 
-![Screenshot](Plat11.jpg)
+[Miam](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/images/Plat10.JPG)
 
 
 FOURCAUD Corentin
