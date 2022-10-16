@@ -1,12 +1,17 @@
 
 
 **Hasselback de pommes de terre**
-Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pommes de terre sont coupées en tranches minces environ jusqu'à la moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus des pommes de terre lors de la cuisson1.
 
 
 
 
-![alt text](../images/titi.jpeg)
+
+Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pommes de terre sont coupées en tranches minces environ jusqu'à la moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus des pommes de terre lors de la cuisson.
+
+
+
+
+![alt text](/titi.jpg)
 
 
 Vous avez le choix entre :
