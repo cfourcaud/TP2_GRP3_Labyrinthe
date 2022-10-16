@@ -8,10 +8,10 @@ Ce ne sont pas des variétés de pomme de terre, mais plutôt des tubercules ré
 
 
 
-Pour continuer aller à la salle suivante : (attention vous allez baver)
+Pour continuer, aller à la salle suivante : (attention vous allez baver)
 
 
--->[Marcher vers la salle suivante](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Salle3.md "Salle suivante")
+-->[Marcher vers la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle3.md "Salle suivante")
 
 
 
