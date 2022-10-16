@@ -4,7 +4,8 @@ Votre but est d'arriver à la salle tartiflette avec votre patate mais attention
 Si vous avez faim pendant le labyrinthe ce n'est pas de notre faute.
 
 La salle 1 vous attend ! un plat facile à faire et très bon à déguster.
-[Salle 1](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle1.md "Prendre à gauche")
+
+[Aller à la Salle 1](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle1.md "Prendre à gauche")
 
 
 Bon jeu à vous !
