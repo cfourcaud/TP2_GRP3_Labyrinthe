@@ -7,7 +7,7 @@ moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus
  des pommes de terre lors de la cuisson.
 
 
-![alt text](/images/Plat4.jpeg)
+![alt text](/images/Plat3.png)
 
 
 
@@ -25,7 +25,4 @@ Vous avez le choix entre :
 
 
 [Revenir au point de départ](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md "Revenir au point de départ")
-<<<<<<< HEAD
 
-=======
->>>>>>> 6555d2265664f60f6bb30eceb63671577797f74c
