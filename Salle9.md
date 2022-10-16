@@ -2,7 +2,7 @@
 
 Désireux de prendre le large, vous sentez votre ame de pêcheur prendre le dessus, les galettes de pomme de terre accompagné de son sublime saumon fumé, vous fera naviguer au delà des océans.
 
-![alt text](/images/Plat9.jpg)
+![alt text](/images/Plat9.JPG)
 
 
 Vous avez certainement apprécié ce plats, vous décidez donc de continuer cette délicieuse dégustation : 
