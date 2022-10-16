@@ -15,7 +15,7 @@ Vous voulez épater vos amis avec un apéritif étonnant et savoureux ? Osez les
 Vous avez le choix entre :
 
 
-[Aller à la salle 5](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Salle5.md "Salle 5")
+[Aller à la salle 5](https://github.com/cfourcaud/TP2_Groupe3_Labyrinthe/blob/main/Salle5.md "Salle 5")
 
 [Aller à la salle 3](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Salle3.md "Salle 3")
 
