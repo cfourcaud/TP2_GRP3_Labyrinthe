@@ -1,6 +1,6 @@
 
 
-#Hasselback de pommes de terre#
+**Hasselback de pommes de terre**
 
 
 
@@ -11,7 +11,7 @@ Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pomm
 
 
 
-![alt text](../images/titi.jpeg)
+![alt text](/images/titi.jpeg)
 
 
 Vous avez le choix entre :
