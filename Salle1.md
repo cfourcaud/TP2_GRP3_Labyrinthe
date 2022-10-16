@@ -9,9 +9,9 @@ nutritionniste et pharmacien français employé par l’armée française au XVI
 Pour continuer vous avez le choix entre :
 
 
--->[Marcher vers la salle de gauche](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Salle2.md "Salle de gauche")
+-->[Marcher vers la salle de gauche](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle2.md "Salle de gauche")
 
--->[Marcher vers la salle de droite](https://github.com/cfourcaud/TP2_Groupe3/blob/main/Salle11.md "Salle de droite")
+-->[Marcher vers la salle de droite](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle11.md "Salle de droite")
 
 
 
