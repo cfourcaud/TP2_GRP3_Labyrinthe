@@ -6,6 +6,7 @@
 
 
 
+<<<<<<< HEAD
 Les hasselbackspotatis  sont une recette de pommes de terre cuites,
  où les pommes de terre sont coupées en tranches minces environ jusqu'à la 
 moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus
@@ -13,6 +14,12 @@ moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus
 
 
 ![alt text](/images/titi.jpg)
+=======
+Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pommes de terre sont coupées en tranches minces environ jusqu'à la moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus des pommes de terre lors de la cuisson.
+
+
+
+>>>>>>> 6555d2265664f60f6bb30eceb63671577797f74c
 
 
 
@@ -26,4 +33,7 @@ Vous avez le choix entre :
 
 
 [Revenir au point de départ](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md "Revenir au point de départ")
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6555d2265664f60f6bb30eceb63671577797f74c
