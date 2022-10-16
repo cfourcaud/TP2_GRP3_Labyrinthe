@@ -2,7 +2,7 @@
 
 Voici un plat pour vos petites patates ! 
 
-![alt text](/images/Plat2.png)
+![alt text](/images/Plat2.jpg)
 
 
 
