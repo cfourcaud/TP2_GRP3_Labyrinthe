@@ -1,4 +1,7 @@
 ** Pancakes de pomme de terre**
+
+
+
 Je vous présente un apéritif riche, gourmand et idéal du déjeuner du diner ou en lors d’un pique-nique. Ces pancakes aux Pommes de Terre sont un classique des recettes gourmandes : petits et grands 
 l’adoreront.
 
