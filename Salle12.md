@@ -6,8 +6,8 @@ Spécialité de Suisse alémanique. À l'origine, les pommes de terre, cuites la
 
 ![alt text](/images/Plat12.jpg)
 
--> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle9.md)
-
 -> [Marcher vers la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/end.md)
+
+-> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle9.md)
 
 FOURCAUD Corentin
