@@ -1,4 +1,6 @@
+
 Bienvenue dans la salle 5
+![alt text](/images/Plat3.png)
 
 
 
