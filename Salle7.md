@@ -2,7 +2,7 @@ La tourte de pommes de terre au jambon et au chèvre
 
 Vous voilà maintenant devant cette magnifique tourte à base de patates. En version salée ou sucrée, la tourte est un met qui tutoie tous les horizons culinaires. Les saveurs de jambon et la fraicheur du chèvres, vous caressera le palais et vous fera voyager dans l'univers de la gastronomie.
 
-![alt text](/images/Plat7.png)
+![alt text](/images/Plat7.jpg)
 
 A présent, Deux autres plats apparaissent à vous, vous décidez de : 
 
