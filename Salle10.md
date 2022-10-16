@@ -6,8 +6,8 @@ L'histoire raconte qu'en 1879, en pleine guerre du Pacifique, les soldats péruv
 
 ![alt text](/images/Plat10.JPG)
 
--> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle11.md)
-
 -> [Marcher vers la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle9.md)
+
+-> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle11.md)
 
 FOURCAUD Corentin

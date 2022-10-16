@@ -10,8 +10,8 @@ L'origine de ce hors-d'œuvre remonterait au moins à 1392 ou 1394 et en France 
 
 ![alt text](/images/Plat11.JPG)
 
--> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle1.md)
-
 -> [Marcher vers la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle10.md)
+
+-> [Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle1.md)
 
 FOURCAUD Corentin
