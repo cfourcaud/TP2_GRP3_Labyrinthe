@@ -11,7 +11,7 @@ Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pomm
 
 
 
-![alt text](C:\Users\DELL\OneDrive\Images)
+![alt text](/images/titi.jpg)
 
 
 Vous avez le choix entre :
