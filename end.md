@@ -10,5 +10,7 @@ D'origine récente (le plat a été inventé dans les années 1980), la recette 
 
 -> [Recommencer le labyrinthe](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md)
 
+Aux noms de FOURCAUD Corentin, VERON Jean-Baptiste, QUERE Evan et MOKADEM Donia, nous vous remercions d'avoir paryicipé à cette belle dégustation de plats à base de pommes de terre.
 
+Abonnez-vous !
 
