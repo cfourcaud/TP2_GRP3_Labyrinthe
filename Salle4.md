@@ -1,12 +1,11 @@
 
+**Muffins de pomme de terre**
 
-**Hasselback de pommes de terre**
-
-
-
+Vous voulez épater vos amis avec un apéritif étonnant et savoureux ? Osez les muffins de pomme de terre ! Une véritable révélation en bouche. Fondants et parfumés, ces muffins vont faire l’unanimité. 
 
 
-Les hasselbackspotatis  sont une recette de pommes de terre cuites, où les pommes de terre sont coupées en tranches minces environ jusqu'à la moitié. Du beurre, de la chapelure et des amandes sont ajoutés sur le dessus des pommes de terre lors de la cuisson.
+![alt text](/images/Plat4.JPG)
+
 
 
 
@@ -23,3 +22,4 @@ Vous avez le choix entre :
 
 
 [Revenir au point de départ](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md "Revenir au point de départ")
+
