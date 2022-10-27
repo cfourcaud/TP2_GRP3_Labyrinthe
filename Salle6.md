@@ -12,9 +12,9 @@ l’adoreront.
 Vous avez le choix entre :
 
 
-[Aller à la salle 7 ](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle7.md "Salle 7")
+[Aller à la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle7.md "Salle 7")
 
-[Aller à la salle 5](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle5.md "Salle 5")
+[Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle5.md "Salle 5")
 
 
 

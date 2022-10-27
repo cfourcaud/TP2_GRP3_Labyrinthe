@@ -13,9 +13,9 @@ De plus, sous forme de croquettes, elles sont irrésistibles n’est-ce pas ? Il
 Vous avez le choix entre :
 
 
-[Aller à la salle 6](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle6.md)
+[Aller à la salle suivante](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle6.md)
 
-[Aller à la salle 4](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle4.md)
+[Revenir en arrière](https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/Salle4.md)
 
 
 
